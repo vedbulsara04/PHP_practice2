@@ -1,1 +1,1 @@
-# PHP_practice2
+# PHP practice scripts
